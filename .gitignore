@@ -1,0 +1,10 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore environment variable files
+.env
+
+# Other potential ignores
+__pycache__/
+*.pyc
+*.pyo
